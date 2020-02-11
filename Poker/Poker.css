@@ -1,0 +1,10 @@
+.hour{
+	width:25px;
+	height:25px;
+	border: 1px solid black;
+	text-align:center;
+}
+
+.Red {background-color:red;}
+.Green {background-color:green;}
+.Grey {background-color:grey;}
